@@ -706,13 +706,6 @@ Start Our Team
 	<div class="container">
 		<div class="row">
 
-			<!-- section title -->
-			<div class="title text-center wow fadeInUp" data-wow-duration="500ms">
-				<h2>Our <span class="color">Team</span></h2>
-				<div class="border"></div>
-			</div>
-			<!-- /section title -->
-
 
 
 		</div>  	<!-- End row -->
@@ -843,8 +836,7 @@ Start Our Team
 		<script type="text/javascript" src="plugins/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
 		<!-- Magnific popup -->
 		<script type="text/javascript" src="plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
-		<!-- Google Map API -->
-		<script type="text/javascript"  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+
 		<!-- Sticky Nav -->
 		<script type="text/javascript" src="plugins/Sticky/jquery.sticky.js"></script>
 		<!-- Number Counter Script -->
