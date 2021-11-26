@@ -749,7 +749,7 @@ Start Our Team
 				<div class="row wow fadeInUp" data-wow-duration="500ms">
 					<div class="row" style="margin-bottom: 100px">
 						<div class="title text-center wow fadeInUp" data-wow-duration="500ms">
-							<h2>Jugar Online <span class="color">The Colors</span></h2>
+							<h2><span class="color"></span></h2>
 							<div class="border"></div>
 						</div>
 					</div>
