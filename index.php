@@ -8,9 +8,9 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="description" content="Meghna One page parallax responsive HTML Template ">
+	<meta name="description" content="Informacion necesaria para conocer acerca del juego The Colors.">
 
-	<meta name="author" content="Muhammad Morshed">
+	<meta name="author" content="Alecs6k">
 
 	<title>The Colors | Videojuego</title>
 
@@ -19,7 +19,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Favicon -->
-	<!-- <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" /> -->
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
 	<!-- CSS
 		================================================== -->
