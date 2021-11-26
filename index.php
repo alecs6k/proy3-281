@@ -225,7 +225,7 @@ Start Call To Action SEPARACION
 				<!-- /section title -->
 			</div> <!-- /end col-lg-12 -->
 		</div> <!-- end row -->
-		<div class="row">
+		<!--<div class="row">
 			<div class="col-md-12">
 				<div class="portfolio-filter">
 					<button class="active" type="button" data-filter="all">Todo</button>
@@ -234,11 +234,11 @@ Start Call To Action SEPARACION
 					<button type="button" data-filter="design">Escenarios</button>
 				</div>
 			</div>
-		</div>
+		</div>-->
 
 		<!--INTERFAZ development-->
 		<div class="row filtr-container">
-			<div class="col-lg-4 filtr-item" data-category="development">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/i1.png" alt="">
 					<div class="caption">
@@ -252,7 +252,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="development">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/i2.png" alt="">
 					<div class="caption">
@@ -266,7 +266,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="development">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/i3.png" alt="">
 					<div class="caption">
@@ -280,7 +280,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="development">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/i4.png" alt="">
 					<div class="caption">
@@ -294,7 +294,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="development">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/i5.png" alt="">
 					<div class="caption">
@@ -308,7 +308,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="photography">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/p1.png" alt="">
 					<div class="caption">
@@ -322,7 +322,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="photography">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/p2.png" alt="">
 					<div class="caption">
@@ -336,7 +336,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="photography">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/p3.png" alt="">
 					<div class="caption">
@@ -350,7 +350,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="design">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/e1.png" alt="">
 					<div class="caption">
@@ -364,7 +364,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="design">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/e2.png" alt="">
 					<div class="caption">
@@ -378,7 +378,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="design">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/e3.png" alt="">
 					<div class="caption">
@@ -392,7 +392,7 @@ Start Call To Action SEPARACION
 				</div>
 			</div>
 
-			<div class="col-lg-4 filtr-item" data-category="design">
+			<div class="col-lg-4">
 				<div class="portfolio-block">
 					<img class="img-responsive" src="images/theColors/e4.png" alt="">
 					<div class="caption">
