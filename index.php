@@ -716,6 +716,48 @@ Start Call To Action SEPARACION
 </section>   <!-- End section -->
 
 
+<section class="section">
+	<div class="container">
+		<div class="row wow fadeInUp" data-wow-duration="500ms">
+			<div class="col-lg-12">
+
+				<div class="title text-center wow fadeInDown">
+					<h2> Redes Sociales <span class="color">The Colors</span></h2>
+					<div class="border"></div>
+				</div>
+
+				<!-- Footer Social Links -->
+				<div class="social-icon">
+					<ul class="list-inline">
+						<li><a href="https://www.facebook.com/alexdariem.chpaquiri/"><i class="tf-ion-social-facebook"></i></a></li>
+						<li><a href="https://studio.youtube.com/channel/UC5emBeQyVJ5kjsT7g8oFa1A/videos"><i class="tf-ion-social-youtube"></i></a></li>
+					</ul>
+				</div>
+				<!--/. End Footer Social Links -->
+
+				<!-- copyright -->
+
+
+			</div> <!-- end col lg 12 -->
+		</div> <!-- end row -->
+	</div> <!-- end container -->
+</section> <!-- end footer -->
+
+
+<!--
+Start Call To Action SEPARACION
+==================================== -->
+<section class="call-to-action section-sm bg-1 overly">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+
+			</div>
+		</div> 		<!-- End row -->
+	</div>   	<!-- End container -->
+</section>   <!-- End section -->
+
+
 <!--
 Start Our Team
 =========================================== -->
@@ -744,7 +786,7 @@ Start Our Team
 		========================================== -->
 
 
-		<footer id="" class="bg-one">
+		<section id="" class="section">
 			<div class="container">
 				<div class="row wow fadeInUp" data-wow-duration="500ms">
 					<div class="row" style="margin-bottom: 100px">
@@ -835,13 +877,7 @@ Start Our Team
 					</div> <!-- end col lg 12 -->
 				</div> <!-- end row -->
 			</div> <!-- end container -->
-		</footer> <!-- end footer -->
-
-
-
-
-
-
+		</section> <!-- end footer -->
 
 
 
